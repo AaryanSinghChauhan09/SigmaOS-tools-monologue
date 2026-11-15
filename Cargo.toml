@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos-tools-monologue"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aaryan Singh Chauhan <aaryansinghchauhan@sigmaos.internal>"]
+description = "Webcam and microphone recording with instant trim and cut ranges"
+license = "MIT"
+
+[dependencies]

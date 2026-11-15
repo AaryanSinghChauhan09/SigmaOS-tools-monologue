@@ -1,0 +1,1 @@
+# SigmaOS-tools-monologue\n\nOmarchy simple webcam & microphone recorder and trimmer (omacom/monologue parity).\n\nPart of the SigmaOS sovereign ecosystem.\n
