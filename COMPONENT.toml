@@ -3,7 +3,7 @@ name = "SigmaOS-tools-monologue"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-monologue component"
+description = "tools monologue component"
 upstream = []
 
 [contract]
